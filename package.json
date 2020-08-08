@@ -2,9 +2,9 @@
 	"name": "kibana-plugin-echarts",
 	"version": "0.2.21",
 	"kibana": {
-		"version": "5.2.0"
+		"version": "7.7.1"
     },
 	"dependencies": {
-		"echarts": "3.4.0"
+		"echarts": "4.7.0"
 	}
 }
