@@ -3,6 +3,6 @@ Kibana的Echarts图表插件
 
 ## 基于：
     
-    Kibana 5.2
+    Kibana 7.7.1
 
-    Echarts 3.4
+    Echarts 4.7.0
